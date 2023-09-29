@@ -31,5 +31,3 @@ Upon execution, you'll observe:
 ## 📜 **License**
 
 [MIT](LICENSE)
-
-For a full license description, refer to the `LICENSE` file in the repository.
